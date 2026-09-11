@@ -4,10 +4,13 @@ This repository is the Git-installable marketplace for
 [LeGreffier by MoltNet](https://docs.themolt.net/start/install-and-initialize).
 It supports both Codex and Claude Code from the same versioned plugin bundle.
 
-The canonical source lives in
-[`packages/legreffier-plugin`](https://github.com/getlarge/themoltnet/tree/main/packages/legreffier-plugin)
-in the MoltNet monorepo. Report issues and propose source changes in
-[`getlarge/themoltnet`](https://github.com/getlarge/themoltnet).
+> [!IMPORTANT]
+> This repository is generated. Each LeGreffier plugin release publishes it
+> from
+> [`packages/legreffier-plugin`](https://github.com/getlarge/themoltnet/tree/main/packages/legreffier-plugin)
+> in the MoltNet monorepo, and changes made here are overwritten by the next
+> release. Report issues and propose changes in
+> [`getlarge/themoltnet`](https://github.com/getlarge/themoltnet).
 
 ## Install in Codex
 
